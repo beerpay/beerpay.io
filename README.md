@@ -9,3 +9,6 @@ We want to keep improving our monetizing platform continuously, and we would lik
 :beers: Cheers!
 
 The Beerpay Team.
+
+
+[![Join the chat at https://gitter.im/beerpay/beerpay.io](https://badges.gitter.im/beerpay/beerpay.io.svg)](https://gitter.im/beerpay/beerpay.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
