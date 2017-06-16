@@ -12,3 +12,8 @@ We want to keep improving our support platform continuously, and we would like t
 :beers: Cheers!
 
 The Beerpay Team.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/beerpay/beerpay.io/badge.svg?style=beer-square)](https://beerpay.io/beerpay/beerpay.io)  [![Beerpay](https://beerpay.io/beerpay/beerpay.io/make-wish.svg?style=flat-square)](https://beerpay.io/beerpay/beerpay.io?focus=wish)
